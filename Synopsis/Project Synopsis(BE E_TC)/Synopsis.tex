@@ -1,0 +1,86 @@
+\documentclass[12pt, a4paper, openright]{report}
+\usepackage{indentfirst}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{epstopdf}
+\usepackage{subfigure}
+\usepackage{multicol}
+\usepackage{makeidx}
+\usepackage{nomencl}
+\usepackage{pdflscape}
+\usepackage{flafter}
+\usepackage[colorlinks=true, pdfstartview=FitV, linkcolor=blue, citecolor=blue, urlcolor=blue,breaklinks=true]{hyperref}
+\usepackage{cite}
+\usepackage[section]{placeins}
+\usepackage{longtable}
+%\setcounter{tocdepth}{4}
+%\setcounter{secnumdepth}{4}
+\usepackage{array}
+\usepackage[english]{babel}
+\usepackage{booktabs}
+\usepackage{morefloats}
+\usepackage{multirow}
+\usepackage{floatrow}
+\usepackage{afterpage}
+\usepackage{appendix}
+\usepackage{enumerate}
+\usepackage{lipsum}
+\usepackage{mathtools}
+\usepackage{wrapfig}
+\usepackage{lscape}
+\usepackage{rotating}
+\usepackage[table]{xcolor}
+\floatsetup[table]{capposition=top}
+
+%\renewcommand{\arraystretch}{2}
+\newcommand{\cchapter}[1]{\chapter[#1]{\centering #1}}
+\usepackage[bindingoffset=0.2in,top=1in, bottom=1in, left=1in, right=1in]{geometry}
+\newtheorem{lemma}{Lemma}[section]
+\newtheorem{theorem}{Theorem}
+\newtheorem{proof}{Proof}[section]
+\newtheorem{mylem}{Lemma}[section]
+\newtheorem{myth}{Theorem}[section]
+\newtheorem{myprop}{Proposition}[section]
+\newtheorem{cor}[myth]{Corollary}
+\newtheorem{myrem}{Remark}[section]
+\newtheorem{ex}{Example}[section]
+\newtheorem{mydef}{Definition}[section]
+\newcommand\blfootnote[1]{%
+  \begingroup
+  \renewcommand\thefootnote{}\footnote{#1}%
+  \addtocounter{footnote}{-1}%
+  \endgroup
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pagenumbering{}
+\begin{document}
+\doublespacing
+%\onehalfspacing
+\clearpage
+\thispagestyle{empty}
+\input{Title_page}
+%\pagestyle{empty}
+%\newpage
+\pagestyle{plain}
+\pagenumbering{roman}
+\cleardoublepage \addcontentsline{toc}{chapter}{Certificate}
+%\input{certificate} %use this certificate for 2 copies
+%\input{certificate_1} % use this cerificate for individual copies
+\pagenumbering{arabic}
+\cleardoublepage \addcontentsline{toc}{chapter}{Abstract}
+
+\input{Details}
+
+\cleardoublepage
+\pagestyle{plain}
+%\pagenumbering{arabic}
+
+\addcontentsline{toc}{chapter}{Referen}
+\renewcommand\bibname{References}
+\begin{thebibliography}{99}
+\input{references}
+\end{thebibliography}
+\end{document}
