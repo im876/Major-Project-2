@@ -1,0 +1,81 @@
+There are two types of tumor
+1. Beningn
+2. Malignant
+
+Benign tumors don't spread too fast, and have defined boundaries.
+Malignant tumors can easily spread at a rapid rate. They are not restricted and can cause damage to the central nervous system.
+
+Our brain Tumor detection system detects Glioma, Meningioma, and pituitary tumors.
+
+SYMPTOMS
+Headaches
+Memory loss
+Headaches
+Vertigo or dizziness
+vomiting
+blurred vision or double vision
+confusion
+seizures (in adults)
+
+
+DIAGNOSIS
+A neurological exam- Simple tests such as checking vision, hearing, balance and coordination.
+Imaging Tests-Magnetic resonance imaging  (MRI), computerized tomography (CT) and positron emission tomography (PET).
+Biopsy- Collecting a tisuue cell and testing the type of brain tumor. For better results.
+
+
+TREATMENT
+
+Points to remember before treatment
+
+the type of tumor
+the size of the tumor
+the location of the tumor
+If the tumor has spread to other parts of the CNS or body
+Possible side effects and overall health
+
+Surgery - 1. Brain tumor location is accessible
+	2.Tissues surrounding sensitive parts of brain can't be removed.
+	3.For small and easy operations.
+	4.Surgery to remove a brain tumor carries risks, such as infection and bleeding, depending upon the location. (eg -eyes may get affected)
+	5. Preferred first for low grade Brain tumor, as well as main parts of the tumor.
+	6.Removing the tumor can improve neurological symptoms, provide tissue for diagnosis and genetic analysis
+	7. Help make other brain tumor treatments more effective,
+	8. craniotomy- Process of removal of brain tumor after removing the part of the skull.
+
+Radiation therapy - 1.Radiation therapy uses high-energy beams, such as X-rays or protons, to kill tumor cells.
+	2.brachytherapy
+	3.close to sensitive areas of the brain are treated easily.
+	4. Children are treated using this method.
+	5. fatigue, headaches, memory loss, scalp irritation and hair loss are side effects(may occur)
+Radiosurgery - 1.gives a highly focused form of radiation treatment to kill the tumor cells in a very small area
+	2.receives a very large dose of radiation to kill the tumor cells.
+	3.Gamma Knife or linear accelerator.Radiosurgery is typically done in one treatment, and usually you can go home the same day.
+	4.Fastest way
+Chemotherapy - 1.Drugs to kill tumor cells. Chemotherapy drugs can be taken orally in pill form or injected into a vein
+	2. The type of brain tumor determines whether to recommend this or not.
+	3. goal of chemotherapy can be to destroy tumor cells remaining after surgery, slow a tumor’s growth, or reduce symptoms.
+	4. Others symptoms are kidney damage
+Targeted therapy - 1.Targeted therapy is a treatment that targets the tumor’s specific genes, proteins, or the tissue environment that contributes to a tumor’s growth and survival.
+	
+
+1. Radiation therapy can also damage healthy tissue.
+2. Surgery can be difficult if the tumor is near a delicate part of the brain or spinal cord
+3. more targeted delivery of radiation therapy, more refined surgeries, better understanding of types of tumors suitable to chemotherapy. Awareness is required
+4. If there is visible tumor remaining after surgery, radiation therapy and chemotherapy may be used to complete the process.
+5. Gliadel wafers are a way to give the drug carmustine (BiCNU). These wafers are placed in the area where the tumor was removed during surgery.
+For people with glioblastoma and high-grade glioma, the latest standard of care is radiation therapy with daily low-dose temozolomide (Temodar).
+
+
+AFTER EFFECTS
+
+Treatment can cause physical symptoms and side effects, as well as emotional, social, and financial effects.
+Palliative treatments
+These treatments vary widely and often include medication, nutritional changes, relaxation techniques, emotional and spiritual support, and other therapies.  It focuses on improving how you feel during treatment by managing symptoms and supporting patients and their families with other, non-medical needs. It cotrols severity of sysmptoms, and improves quality of life, than those who do not consider palliative treatment.
+
+ Supportive care for people with a brain tumor includes:
+
+Corticosteroids. These drugs are used to lower swelling in the brain, which can lessen headache pain from the swelling without the need for prescription pain medications. These drugs may also help improve neurological symptoms by decreasing the pressure from the tumor and swelling in the healthy brain tissue.
+
+Anti-seizure medicines. These help control seizures, and there are several types of drugs available. These medications are prescribed by 	neurologist.
+
