@@ -1,0 +1,93 @@
+﻿1. The five-year relative survival rate for all primary childhood brain tumors is 82.5%
+
+2. World brain tumour day is observed on 8th of June every year since 2000
+
+3. This daywas first observed by German Brain Tumour Association (Deutsche Hirntumorhilfe e.V.), which is a  non-profit organization
+
+4. 40% of all cancers spread to brain
+
+5. Metastatic brain tumors occur when cancer located in another organ of the body spreads to the brain
+
+6. Unnecessary growth of cells when body doesn’t require them is known as tumour
+
+7. There are two main types of tumours namely, malignant and benign (nonmalignant) tumours
+
+8. risk factor for the development of brain tumours is exposure to radiation especially if having previous cancer treatment
+
+9. Family history and high dose X-rays are risk factors for brain tumour.
+
+10. Brain tumours are diagnosed by the doctor based on the results of a medical history and physical examination and various specialized tests of the brain and nervous system.
+
+11. symptoms of presence Brain Tumour are headaches, seizures, problem with vision, vomiting
+
+12. Approximately 70% of all brain tumors are benign
+13. Approximately 30% of all brain tumors are malignant
+14. Approximately 58% of all brain tumors occur in females
+15. Approximately 42% of all brain tumors occur in males
+16. The median age at diagnosis for a primary brain tumor is 60 years
+17. For non-malignant brain tumor patients, the average five-year survival rate is 91.7%
+18. For malignant brain tumor patients, the five-year relative survival rate following diagnosis is 36%
+19. Approximately 4.3% of all brain tumors cases diagnosed each year occur in children ages 0-14
+
+20. The most prevalent brain tumor types in children are :- Pilocytic astrocytoma ,Glioma, malignant, Embryonal tumors 
+
+21. Approximately 6% of all brain tumors occur in the pediatric population
+
+22. Approximately 1.8% of all brain tumors occur in the adolescent (15-19) population of pediatric brain tumor patients
+23. Pediatric brain tumors are the leading cause of cancer-related death among children and adolescents ages 0-19 years
+24. The most prevalent brain tumor types in adolescents (15-19) are tumors of the pituitary
+25. Overall, for all primary pediatric brain tumors, incidence rates are higher in females compared to males, and white people compared to other races/ethnicity
+26. Among adolescents only (15-19), brain tumors are the most common form of cancer, accounting for 21% of diagnoses in this age group each year
+27. Brain tumors are the leading cause of cancer-related death in males aged 20-39 and the fourth leading cause of cancer-related death in females in this age group
+28. The rate is 72.5% for malignant tumors and 97.3% for non-malignant tumors
+29. Brain tumors are the eighth-most common cancer overall among persons age 40+ years, ninth-most among males, and fifth-most among females in this age group
+30. Brain tumors are the third-leading cause of cancer-related death in individuals 40 years and older
+31. Gliomas (such as glioblastoma, ependymomas, astrocytomas, and oligodendrogliomas), which make up 81% of malignant brain tumors in adults
+32. White – 16.25/100,000
+33. Hispanic / Latino/a / Latinx – 15.78/100,000
+34. Asian and Pacific Islander American (APIA) – 11.65/100,000
+35. American Indian and Alaskan Native (AIAN) – 10.64/100,000
+36. Overall, incidence rates for all primary brain and CNS tumors are higher in females (58% of diagnoses) than in males (42%)
+37. Non-malignant brain tumors occur significantly more often in females (64%) than in males (36%)
+38. Malignant brain tumors occur slightly more often in males (56%) than in females (44%)
+39. Incidence rates for specific brain tumor types vary, for example, glioblastoma diagnoses are more common in males, while meningioma diagnoses are more common in females
+40. Overall, males have higher mortality rates from malignant brain tumors than females, with the exception of glioblastoma, embryonal tumors, and germ cell tumors
+41. Not all brain tumours are cancers, some are completely benign or harmless masses of cancerous cells
+42. Malignant brain cells can be cancerous cells and can spread to the other organs of the body.
+43. Only two or three out of 1,00,000 people are affected accounting for less than 2% of the total number of malignancies diagnosed.
+44. Overall, the chance that a person will develop a malignant tumor of the brain or spinal cord in his or her lifetime is less than 1%.
+45. Glioblastoma multiforme (GBM) is the deadliest type of brain cancer, accounting for 45% of all malignant brain tumors.
+46. A primary malignant brain tumor is a rare type of cancer accounting for only about 1.4%
+47. The risk of a brain tumor increases as you age.
+48. People who have been exposed to ionizing radiation
+49. Cell phones aren’t proven to cause brain cancer.
+50.  there is no definitive evidence that cell phone use increases the risk of cancer
+51. There are different types of primary brain cancer and survival rates vary significantly depending on the type of cancer.
+52. Some types of brain cancer, such as meningioma, anaplastic ependymoma and oligodendroglioma, are highly treatable
+53.  Some cacer are treatable while others are less responsive to treatment.
+54.  NFCR is part of a robust, international coalition working on innovative ways to defeat GBM utilizing a rigorous adaptive trial platform known as GBM
+55. GBM AGILE is re-engineering the way clinical trials are conducted to develop more effective treatments faster than ever before.
+56. Research  has been studying the role angiogenesis plays in glioblastoma multiforme (GBM), the deadliest form of brain cancer
+57. new drugs that target and could extend the benefits of anti-angiogenic therapies for patients.
+58. Research is identifying genes and pathways that facilitate vessel co-option in order to prevent invasion and improve GBM therapies.
+59.  Dr. W.K. Alfred Yung’s research focused on drugs that target a gene called PI3K, which is a key factor in about 30% of GBM (Global Brain Tumour) cases
+60. A greater inhibition of cell growth and the cancer cells were induced into cell suicide in a research
+61.  Findings reveal molecular targets and designs for combination therapies that could lead to new treatments for GBM patients
+62. meningioma is the most common brain tumor, accounting for about 30 percent of them.
+63. Meningioma tumors are often benign: You may not even need surgery.
+64. A meningioma diagnosis may occur when the doctor is looking for something else
+65. When a doctor diagnoses a meningioma, you will get further tests to find out how the tumor is likely to behave
+66. a neurosurgeon will recommend removing the tumor or just watching it to see if it grows
+67.  tumor cells are not likely to spread to other parts of the body.
+68. meningiomas can quietly grow for years without causing any problems — and they can get surprisingly large.
+69. Sometimes, believe it or not, your doctor may recommend observation for meningioma, especially if it’s small and not causing problems.
+70. You’ll have regular MRIs to check on small detections of bain tumour
+71.  Depending on where the tumor is, each approach will be different
+72. umors close to the surface are typically easier to access than those located along the skull base.
+73. Skull base tumors are those located deep in the skull, behind the nose or eyes and call for surgeons with skill and expertise in this kind of surgery
+74. There are a number of new techniques in brain tumor surgery, even for tumors located deep in the skull, and some of these are less invasive.
+
+
+
+
+
