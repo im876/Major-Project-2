@@ -19,3 +19,17 @@
 ---------
 
 ### Link to dataset used for Phase 2 :
+1. [Brain Tumor Classification (MRI)](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
+    The dataset is divided into two sets : Test and Train
+    
+   a) Test Set :
+    1. Glioma Set : 100
+    2. Meningioma Set : 115
+    3. Non Tumorous Set : 105
+    4. Pituitary Set : 74
+    
+   b) Test Set :
+    1. Glioma Set : 826
+    2. Meningioma Set : 822
+    3. Non Tumorous Set : 395
+    4. Pituitary Set : 827
